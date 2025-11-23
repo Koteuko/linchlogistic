@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local tooling
+.idea/
+.vscode/
+*.code-workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Environment overrides
+.env
+.env.*
